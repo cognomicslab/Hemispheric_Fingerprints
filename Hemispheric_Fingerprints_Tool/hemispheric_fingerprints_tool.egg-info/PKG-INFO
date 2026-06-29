@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: hemispheric-fingerprints-tool
+Version: 1.0.0
+Summary: brain fingerprint extraction from fMRI using Integrated Gradients
+Author: Zhou Yuying
+Requires-Dist: torch
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: scipy
+Requires-Dist: captum
+Requires-Dist: nilearn
+Requires-Dist: openpyxl

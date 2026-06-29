@@ -1,0 +1,10 @@
+setup.py
+hemispheric_fingerprints_tool.egg-info/PKG-INFO
+hemispheric_fingerprints_tool.egg-info/SOURCES.txt
+hemispheric_fingerprints_tool.egg-info/dependency_links.txt
+hemispheric_fingerprints_tool.egg-info/requires.txt
+hemispheric_fingerprints_tool.egg-info/top_level.txt
+stdnn_ig/__init__.py
+stdnn_ig/modelClasses.py
+stdnn_ig/stdnn_model_train_evaluate_fingerprints.py
+stdnn_ig/utilityFunctions.py
